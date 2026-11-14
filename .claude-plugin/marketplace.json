@@ -1,0 +1,5 @@
+{
+  "name": "claude-chess-theme",
+  "owner": { "name": "skadmlwls9455-pixel" },
+  "plugins": [{ "name": "endgame", "source": "./" }]
+}
